@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-bg-img{
+  background-image: url("../public/images/Header\ hero.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.text-banner {
+  font-family: 'Great Vibes', cursive;
+}
